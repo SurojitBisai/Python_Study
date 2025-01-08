@@ -1,3 +1,4 @@
+
 def compute_hcf(x, y):  # Corrected function definition
     if x > y:
         smaller = y  # Fix logic: smaller value is the minimum of x and y
